@@ -148,6 +148,20 @@
    - `8.4_Задание3.pbix`
 3. Отправьте файлы на проверку через платформу курса.
 
+## Загрузка данных в Power BI
+
+![image-1](img/image-1.png)
+
+![image-2](img/image-2.png)
+
+![image-3](img/image-3.png)
+
+![image-4](img/image-4.png)
+
+![image-5](img/image-5.png)
+
+![image-6](img/image-6.png)
+
 ---
 
 **Преподаватель:** Дуплей Максим Игоревич
