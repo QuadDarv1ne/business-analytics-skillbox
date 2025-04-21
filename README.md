@@ -1,6 +1,6 @@
-# Аналитик данных с нуля 2.0. Часть 2. Python, библиотеки NumPy и Pandas
+# Профессия Бизнес-аналитик 2024. Тариф Премиум
 
-## Аналитик данных с нуля 2.0. Часть 3. SQL, чтение и запись данных, PowerBI
+## Аналитик данных с нуля 2.0. Часть 2. Python, библиотеки NumPy и Pandas
 
 ## Содержание
 
@@ -12,7 +12,9 @@
 6. [Новоселье](tasks/practical_work_7/06_housewarming_task.py)
 7. [Почта](tasks/practical_work_7/07_mail_task.py)
 
-## Решение задач
+## Аналитик данных с нуля 2.0. Часть 3. SQL, чтение и запись данных, PowerBI
+
+## Структура репозитория
 
 ```bash
 python-practice-work/
@@ -21,13 +23,37 @@ python-practice-work/
 ├── requirements.txt           # Зависимости (если нужны)
 │
 ├── tasks/                     # Директория с решениями задач
-│   ├── 01_experience_calculator.py
-│   ├── 02_function_task.py
-│   ├── 03_admission_task.py
-│   ├── 04_grade_task.py
-│   ├── 05_vasya_wants_to_win.py
-│   ├── 06_housewarming_task.py
-│   └── 07_mail_task.py
+│   ├── practical_work_7
+│   │   ├── 01_experience_calculator.py
+│   │   ├── 02_function_task.py
+│   │   ├── 03_admission_task.py
+│   │   ├── 04_grade_task.py
+│   │   ├── 05_vasya_wants_to_win.py
+│   │   ├── 06_housewarming_task.py
+│   │   └── 07_mail_task.py
+│   │
+│   └── practical_work_8.4
+│       ├── data
+│       │   ├── 8.4 Файл для практической работы.xlsx
+│       │   ├── inventory table.xlsx
+│       │   ├── region table.xlsx
+│       │   ├── sales manager table.xlsx
+│       │   └── сustomer table.xlsx
+│       ├── img
+│       │   ├── image-1.png
+│       │   ├── image-2.png
+│       │   ├── image-3.png
+│       │   ├── image-4.png
+│       │   ├── image-5.png
+│       │   └── image-6.png
+│       ├── README.md
+│       ├── image-1.png
+│       ├── image-1_final.png
+│       ├── image-2.png
+│       ├── image-2_final.png
+│       ├── image-3.png
+│       ├── image-3_final.png
+│       └── практическая_работа_power-bi.pbix
 │
 ├── tests/                     # Тесты для проверки решений
 │   ├── test_experience.py
