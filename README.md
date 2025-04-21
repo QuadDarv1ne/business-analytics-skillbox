@@ -4,13 +4,13 @@
 
 ## Содержание
 
-1. [Калькулятор опыта](tasks/01_experience_calculator.py)
-2. [Функция](tasks/02_function_task.py)
-3. [Поступление](tasks/03_admission_task.py)
-4. [Опять двойка](tasks/04_grade_task.py)
-5. [Вася хочет выигрывать](tasks/05_vasya_wants_to_win.py)
-6. [Новоселье](tasks/06_housewarming_task.py)
-7. [Почта](tasks/07_mail_task.py)
+1. [Калькулятор опыта](tasks/practical_work_7/01_experience_calculator.py)
+2. [Функция](tasks/practical_work_7/02_function_task.py)
+3. [Поступление](tasks/practical_work_7/03_admission_task.py)
+4. [Опять двойка](tasks/practical_work_7/04_grade_task.py)
+5. [Вася хочет выигрывать](tasks/practical_work_7/05_vasya_wants_to_win.py)
+6. [Новоселье](tasks/practical_work_7/06_housewarming_task.py)
+7. [Почта](tasks/practical_work_7/07_mail_task.py)
 
 ## Решение задач
 
